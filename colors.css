@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(35, 35,35);
+}
+h1{
+    color:white;
+    text-align:center;
+    
+    
+
+}
+
+.heading{
+    background-color:rgb(70, 130, 150);
+    padding-bottom: 30px;
+    width:1100px;
+    height:100px;
+    margin:0px;
+   
+
+
+}
+
+ /* #secondHeader{
+    background-color:white;
+    margin:0px;
+    padding:10px;
+  
+     
+
+}  */
+.stripe{
+    text-align:center;
+    height: 30px;
+    background-color:white;
+    margin:0px;
+    padding:10px;
+    color:steelblue;
+    border:none;
+    background:none;
+    outline:none;
+    text-transform:uppercase;
+    height:100%;
+    font-weight:bold;
+    color:steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition:all 0.3s; 
+}
+.coloredboxes{
+    width:30%;
+    background-color:purple;
+    padding-top: 30%;
+    margin:1.66%;
+
+}
+.container{
+    display: flex;
+    max-width: 600px;
+    margin:auto;
+}
+#rightAndWrong{
+    color:black;
+}
